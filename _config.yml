@@ -1,24 +1,24 @@
-title:              Ayush Mahapatra
-email:              ayushwork76@gmail.com
-description:        Website
-author:             Ayush Mahapatra
-baseurl:            "/ayush_mahapatra_website"
-url:                "https://ayumahapat0.github.io"
+title: Ayush Mahapatra
+email: ayushwork76@gmail.com
+description: Website
+author: Ayush Mahapatra
+baseurl: "/ayush_mahapatra_website"
+url: "https://ayumahapat0.github.io"
 
 # Social Profiles
-twitter_username:  
-github_username:   ayumahapat0
-facebook_username:  
-instagram_username:  
+twitter_username:
+github_username: ayumahapat0
+facebook_username:
+instagram_username:
 linkedin_username: ayushmahapatra
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics: UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
+markdown: kramdown
+paginate: 5
+paginate_path: "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
